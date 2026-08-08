@@ -11,8 +11,8 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 *instantnoodle · instantnoodlep · kebab · lemonades*
 
 [![Kernel](https://img.shields.io/badge/kernel-4.19.325--cip132-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Acalled/Oneplus_Resuki-snap865)
-[![Branch](https://img.shields.io/badge/branch-OpKona-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TropsPk/Tropsi_X_Kernel/tree/OpKona)
-[![Root](https://img.shields.io/badge/root-KSU--Next_%7C_ReSukiSU_%7C_SukiSU--Ultra-critical?style=for-the-badge&logo=android&logoColor=white)](#-root-solutions)
+[![Branch](https://img.shields.io/badge/branch-OpKona-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Acalled/oneplus_Resuki_snap856)
+[![Root](https://img.shields.io/badge/root %7C_ReSukiSU_critical?style=for-the-badge&logo=android&logoColor=white)](#-root-solutions)
 [![SUSFS](https://img.shields.io/badge/SUSFS-v2.2.0-9cf?style=for-the-badge&logo=android&logoColor=white)](#-features)
 [![ROM Support](https://img.shields.io/badge/ROM_support-Stock_only-yellow?style=for-the-badge&logo=android&logoColor=white)](#-rom-compatibility)
 [![License](https://img.shields.io/badge/license-GPL--2.0-lightgrey?style=for-the-badge&logo=gnu&logoColor=white)](COPYING)
@@ -43,7 +43,7 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ## ✨ Features
 
-- 🧠 **Three root method builds** — choose  ReSukiSU (see below)
+- 🧠 **root method builds** — ReSukiSU (see below)
 - 🥷 **SUSFS v2.2.0** — kernel-level root/module hiding for stronger detection resistance
 - 📦 **Systemless AnyKernel3 installer** — OTA-friendly, compatible with autoflash apps
 - 🐧 **Linux 4.19.325-cip132** base
@@ -64,8 +64,6 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ## 💖 Support Development
 
-Custom ROM (A16) support is in the works — if you'd like to help speed that up,
-donations go straight toward development time and testing devices.
 
 **USDT (BEP20):**
 ```
@@ -93,9 +91,6 @@ layered on top without breaking OTA compatibility.
 ## 🙏 CreditS
 | Credit | For |
 |---|---|
-| [**KernelSU**](https://github.com/tiann/KernelSU) | Original root solution |
-| [**KernelSU-Next**](https://github.com/rifsxd/KernelSU-Next) | Continued KSU development |
-| [**SukiSU-Ultra**](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Root/KPM lineage |
 | [**ReSukiSU**](https://github.com/ReSukiSU/ReSukiSU) | Root implementation used |
 | [**SUSFS**](https://gitlab.com/simonpunk/susfs4ksu) | Root-hiding subsystem |
 | [**AnyKernel3**](https://github.com/osm0sis/AnyKernel3) | Flashable zip framework |
