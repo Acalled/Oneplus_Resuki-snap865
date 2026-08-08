@@ -53,7 +53,7 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ## 📥 Installation
 
-1. Make sure your bootloader is **unlocked** and you're on a **stock-based ROM/firmware** (custom ROM support is coming soon).
+1. Make sure your bootloader is **unlocked** and you're on a **stock-based ROM/firmware** 
 2. Download the flashable zip matching your preferred root method from release section(https://github.com/Acalled/Oneplus_Resuki-snap865/releases)
 3. Flash the zip via **TWRP**, **OrangeFox**, or the **AnyKernel Flasher** app — over your current stock boot setup.
 4. Reboot. First boot after flashing may take a little longer than usual.
@@ -61,7 +61,7 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ---
 
-## 💖 Support Development
+##  Support Development
 
 
 **USDT (BEP20):**
