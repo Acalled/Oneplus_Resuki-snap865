@@ -43,16 +43,12 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ## ✨ Features
 
-- 🧠 **Three root method builds** — choose KernelSU-Next, ReSukiSU, or SukiSU-Ultra (see below)
+- 🧠 **Three root method builds** — choose  ReSukiSU (see below)
 - 🥷 **SUSFS v2.2.0** — kernel-level root/module hiding for stronger detection resistance
 - 📦 **Systemless AnyKernel3 installer** — OTA-friendly, compatible with autoflash apps
 - 🐧 **Linux 4.19.325-cip132** base
 
 ---
-
-## 🔑 Root Solutions
-
-Tropsi X is built in **three separate root-method variants** — flash whichever zip matches the root solution you want, they aren't combined into one build.
 
 ---
 
