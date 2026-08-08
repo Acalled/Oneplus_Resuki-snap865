@@ -12,7 +12,7 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 [![Kernel](https://img.shields.io/badge/kernel-4.19.325--cip132-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Acalled/Oneplus_Resuki-snap865)
 [![Branch](https://img.shields.io/badge/branch-OpKona-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Acalled/oneplus_Resuki_snap856)
-[![Root](https://img.shields.io/badge/root-KSU--Next_%7C_ReSukiSU_%7C_SukiSU--Ultra-critical?style=for-the-badge&logo=android&logoColor=white)](#-root-solutions)
+[![Root](https://img.shields.io/badge/root-_%7C_ReSukiSU_%7C-critical?style=for-the-badge&logo=android&logoColor=white)](#-root-solutions)
 [![SUSFS](https://img.shields.io/badge/SUSFS-v2.2.0-9cf?style=for-the-badge&logo=android&logoColor=white)](#-features)
 [![ROM Support](https://img.shields.io/badge/ROM_support-Stock_only-yellow?style=for-the-badge&logo=android&logoColor=white)](#-rom-compatibility)
 [![License](https://img.shields.io/badge/license-GPL--2.0-lightgrey?style=for-the-badge&logo=gnu&logoColor=white)](COPYING)
