@@ -75,8 +75,8 @@ These kernes are for all oneplus devices which have snapdragon 865 processors an
 
 ## 📖 About
 
-**ACALLED BUILDS** is a kernel for the OnePlus 8, 8 Pro, 8T, and 9R, built in three
-root-method variants — **KernelSU-Next**, **ReSukiSU**, and **SukiSU-Ultra** — each
+**ACALLED BUILDS** is a kernel for the OnePlus 8, 8 Pro, 8T, and 9R, built in 
+root-method variants — **ReSukiSU**
 with **SUSFS v2.2.0**, a modern LLVM toolchain, and a systemless AnyKernel3 installer.
 It's built for daily-driver stability first, with performance and root access
 layered on top without breaking OTA compatibility.
